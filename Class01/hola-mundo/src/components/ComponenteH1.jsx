@@ -1,3 +1,5 @@
+const Bienvenida = () => <h1>Desde React.</h1>;
+
 function ComponenteH1() 
 {
     return(
@@ -5,4 +7,5 @@ function ComponenteH1()
         )
 }
 
-export default ComponenteH1;
+// export default ComponenteH1;
+export default Bienvenida;
